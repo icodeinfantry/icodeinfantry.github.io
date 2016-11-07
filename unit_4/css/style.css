@@ -1,0 +1,45 @@
+body {
+	background-color: #2F4F4F
+;
+}
+h1 {
+	font-family: Indie Flower;
+	font-size: 70px;
+}
+h1, p {
+	color: black;
+}
+ input {
+      border: 0;
+      padding: 10px;
+      font-size: 18px;
+    }
+
+    input[type="submit"] {
+      background: red;
+      color: white;
+    }
+    header {
+      text-align: center;
+      background: url('http://torquemag-hhvm.s3.amazonaws.com/uploads/2012/12/codeispoetrywp.jpg');
+      background-size: cover;
+      color: white;
+    }
+
+    .header{
+      padding: 10px;
+      background: black;
+  }
+
+  .header{
+      display: inline;
+      padding: 0px 10px 0px 10px;
+      color: blue;
+    }
+
+    
+
+      .skills{
+      	color: black;
+
+      }
